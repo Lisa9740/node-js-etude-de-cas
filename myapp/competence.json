@@ -1,0 +1,88 @@
+[
+
+    {
+      "niveau": 6,
+
+      "competence": "CSS"
+  
+    },
+  
+    {
+  
+      "niveau": 2,
+
+      "competence": "Express"
+  
+  
+    },
+  
+    {
+      "niveau": 1,
+  
+      "competence": "Node Js"
+    },
+  
+    {
+  
+      "niveau": 6,
+      
+      "competence": "HTML"
+  
+    },
+  
+    {
+  
+      "niveau": 5,
+  
+      "competence": "Javascript"
+  
+    },
+  
+
+    {
+  
+      "niveau": 4,
+     
+      "competence": "Jquery"
+  
+    },
+  
+    {
+  
+      "niveau": 1,
+   
+      "competence": "Java"
+  
+    },
+  
+    {
+  
+  
+      "niveau": 1,
+  
+      "competence": "C++"
+  
+    },
+  
+    {
+  
+  
+      "niveau": 2,
+  
+    
+      "competence": "PHP"
+  
+    },
+  
+    {
+  
+  
+  
+      "niveau": 6,
+  
+      
+      "competence": "BOOTSTRAP"
+    }
+  
+  
+  ]

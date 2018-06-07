@@ -7,7 +7,10 @@ app.get('/', function (req, res) {
   res.sendFile(__dirname+'/'+'index.html');
 })
 
-
+app.get('/competence', function (req, res) {
+    res.sendFile(__dirname+'/'+'competence.json');
+  })
+  
 
 app.listen(3011, function () {
   console.log(__dirname)
